@@ -3,5 +3,25 @@
     id: 1,
     name: "News",
     logo: "https://i.ibb.co/z5QWk52/8.png"
+  },
+   {
+    id: 2,
+    name: "Movies",
+    logo: "https://i.ibb.co/z5QWk52/8.png"
+  },
+   {
+    id: 3,
+    name: "Entertaiment",
+    logo: "https://i.ibb.co/z5QWk52/8.png"
+  },
+   {
+    id: 4,
+    name: "Travels",
+    logo: "https://i.ibb.co/z5QWk52/8.png"
+  },
+   {
+    id: 5,
+    name: "Education",
+    logo: "https://i.ibb.co/z5QWk52/8.png"
   }
 ]
