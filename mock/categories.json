@@ -23,8 +23,7 @@
     id: 5,
     name: "Education",
     logo: "https://i.ibb.co/z5QWk52/8.png"
-  }
-  
+  },
   {
     id: 6,
     name: "News",
