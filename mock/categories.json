@@ -1,52 +1,62 @@
 [
-  {
-    id: 1,
-    name: "News",
+{
+    id: 0,
+    name: "Все телеканалы",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
-   {
+  {
+    id: 1,
+    name: "Популярные",
+    logo: "https://i.ibb.co/z5QWk52/8.png"
+  },
+  {
     id: 2,
-    name: "Movies",
+    name: "Новостные",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
    {
     id: 3,
-    name: "Entertaiment",
+    name: "Развлекательные",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
    {
     id: 4,
-    name: "Travels",
+    name: "Детские",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
    {
     id: 5,
-    name: "Education",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
-  },
-  {
-    id: 6,
-    name: "News",
+    name: "Кино и фильмы",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
    {
+    id: 6,
+    name: "Образовательные",
+    logo: "https://i.ibb.co/z5QWk52/8.png"
+  },
+  {
     id: 7,
-    name: "Movies",
+    name: "Взрослые",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
    {
     id: 8,
-    name: "Entertaiment",
+    name: "Этнические",
+    logo: "https://i.ibb.co/z5QWk52/8.png"
+  },
+   {
+    id: 8,
+    name: "Природа",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
    {
     id: 9,
-    name: "Travels",
+    name: "Автомобили",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   },
    {
     id: 10,
-    name: "Education",
+    name: "Спорт",
     logo: "https://i.ibb.co/z5QWk52/8.png"
   }
 ]
