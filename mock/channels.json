@@ -4,9 +4,10 @@
     "name": "Первый канал",
     "logo": "",
     "category": {
-      "id": 1,
-      "name": "News",
-      "logo": ""
+      "id": 2,
+      "name": "news",
+      "display": "Новостные",
+      "logo": "https://i.ibb.co/z5QWk52/8.png"
     }
   },
   {
@@ -14,9 +15,10 @@
     "name": "Россия 1",
     "logo": "",
     "category": {
-      "id": 1,
-      "name": "News",
-      "logo": ""
+      "id": 2,
+      "name": "news",
+      "display": "Новостные",
+      "logo": "https://i.ibb.co/z5QWk52/8.png"
     }
   },
   {
@@ -24,9 +26,10 @@
     "name": "Россия 24",
     "logo": "",
     "category": {
-      "id": 1,
-      "name": "News",
-      "logo": ""
+      "id": 2,
+      "name": "news",
+      "display": "Новостные",
+      "logo": "https://i.ibb.co/z5QWk52/8.png"
     }
   },
   {
@@ -34,9 +37,10 @@
     "name": "Карусель",
     "logo": "",
     "category": {
-      "id": 4,
-      "name": "Kids",
-      "logo": ""
+      "id": 2,
+      "name": "kids",
+      "display": "Детские",
+      "logo": "https://i.ibb.co/z5QWk52/8.png"
     }
   },
   {
@@ -44,9 +48,10 @@
     "name": "Мужское кино",
     "logo": "",
     "category": {
-      "id": 5,
-      "name": "Films",
-      "logo": ""
+      "id": 2,
+      "name": "films",
+      "display": "Кино и сериалы",
+      "logo": "https://i.ibb.co/z5QWk52/8.png"
     }
   }
 ]
