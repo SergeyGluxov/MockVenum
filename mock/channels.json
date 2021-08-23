@@ -37,7 +37,7 @@
     "name": "Карусель",
     "logo": "",
     "category": {
-      "id": 2,
+      "id": 4,
       "name": "kids",
       "display": "Детские",
       "logo": "https://i.ibb.co/z5QWk52/8.png"
@@ -48,7 +48,7 @@
     "name": "Мужское кино",
     "logo": "",
     "category": {
-      "id": 2,
+      "id": 5,
       "name": "films",
       "display": "Кино и сериалы",
       "logo": "https://i.ibb.co/z5QWk52/8.png"
