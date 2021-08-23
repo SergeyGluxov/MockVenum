@@ -1,1 +1,52 @@
-
+[
+  {
+    "position": 1,
+    "name": "Первый канал",
+    "logo": "",
+    "category": {
+      "id": 1,
+      "name": "News",
+      "logo": ""
+    }
+  },
+  {
+    "position": 2,
+    "name": "Россия 1",
+    "logo": "",
+    "category": {
+      "id": 1,
+      "name": "News",
+      "logo": ""
+    }
+  },
+  {
+    "position": 3,
+    "name": "Россия 24",
+    "logo": "",
+    "category": {
+      "id": 1,
+      "name": "News",
+      "logo": ""
+    }
+  },
+  {
+    "position": 4,
+    "name": "Карусель",
+    "logo": "",
+    "category": {
+      "id": 4,
+      "name": "Kids",
+      "logo": ""
+    }
+  },
+  {
+    "position": 5,
+    "name": "Мужское кино",
+    "logo": "",
+    "category": {
+      "id": 5,
+      "name": "Films",
+      "logo": ""
+    }
+  }
+]
