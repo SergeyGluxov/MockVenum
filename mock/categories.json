@@ -1,62 +1,74 @@
 [
-{
-    id: 0,
-    name: "Все телеканалы",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+  {
+    "id": 0,
+    "name": "all",
+    "display": "Все телеканалы",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   },
   {
-    id: 1,
-    name: "Популярные",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+    "id": 1,
+    "name": "popular",
+    "display": "Популярные",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   },
   {
-    id: 2,
-    name: "Новостные",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
-  },
-   {
-    id: 3,
-    name: "Развлекательные",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
-  },
-   {
-    id: 4,
-    name: "Детские",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
-  },
-   {
-    id: 5,
-    name: "Кино и фильмы",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
-  },
-   {
-    id: 6,
-    name: "Образовательные",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+    "id": 2,
+    "name": "news",
+    "display": "Новостные",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   },
   {
-    id: 7,
-    name: "Взрослые",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+    "id": 3,
+    "name": "entertainment",
+    "display": "Развлекательные",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   },
-   {
-    id: 8,
-    name: "Этнические",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+  {
+    "id": 4,
+    "name": "kids",
+    "display": "Детские",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   },
-   {
-    id: 9,
-    name: "Природа",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+  {
+    "id": 5,
+    "name": "films",
+    "display": "Кино и сериалы",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   },
-   {
-    id: 10,
-    name: "Автомобили",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+  {
+    "id": 6,
+    "name": "education",
+    "display": "Образовательные",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   },
-   {
-    id: 11,
-    name: "Спорт",
-    logo: "https://i.ibb.co/z5QWk52/8.png"
+  {
+    "id": 7,
+    "name": "adult",
+    "display": "Взрослые",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
+  },
+  {
+    "id": 8,
+    "name": "ethnic",
+    "display": "Этнические",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
+  },
+  {
+    "id": 9,
+    "name": "nature",
+    "display": "Природа",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
+  },
+  {
+    "id": 10,
+    "name": "auto",
+    "display": "Автомобили",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
+  },
+  {
+    "id": 11,
+    "name": "sport",
+    "display": "Спорт",
+    "logo": "https://i.ibb.co/z5QWk52/8.png"
   }
 ]
