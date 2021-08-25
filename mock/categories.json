@@ -9,25 +9,25 @@
     "id": 1,
     "name": "popular",
     "display": "Популярные",
-    "logo": "https://i.ibb.co/z5QWk52/8.png"
+    "logo": "https://i.ibb.co/B2WGrX8/fire-1.png"
   },
   {
     "id": 2,
     "name": "news",
     "display": "Новостные",
-    "logo": "https://i.ibb.co/z5QWk52/8.png"
+    "logo": "https://i.ibb.co/wwGQpbp/news-1.png"
   },
   {
     "id": 3,
     "name": "entertainment",
     "display": "Развлекательные",
-    "logo": "https://i.ibb.co/z5QWk52/8.png"
+    "logo": "https://i.ibb.co/x2zJ968/happy-1.png"
   },
   {
     "id": 4,
     "name": "kids",
     "display": "Детские",
-    "logo": "https://i.ibb.co/z5QWk52/8.png"
+    "logo": "https://i.ibb.co/PNsCyQb/toys-1.png"
   },
   {
     "id": 5,
