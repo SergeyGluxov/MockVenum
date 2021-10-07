@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Подготовьте USB-накопитель",
+    "helper": "Необходимый размер свободного пространства на накопителе 1.5G",
+    "icon": "R.drawable.ic_usb"
+  },
+  {
+    "title": "Скачайте актуальную прошивку по ссылке",
+    "helper": "http://download-ott.bolshoe.tv/fw/uhdx/UHDX-20200414-ota-v7.1.867-Elite-Ott.zip",
+    "icon": "R.drawable.ic_download"
+  },
+  {
+    "title": "Переместите скаченный файл на USB в корневую папку",
+    "helper": "Файл нельзя изменять! Иначе установка завершиться ошибкой.",
+    "icon": "R.drawable.ic_zip"
+  },
+  {
+    "title": "Установите USB-накопитель в приставку",
+    "helper": "",
+    "icon": "R.drawable.ic_plug"
+  }
+]
