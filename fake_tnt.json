@@ -1,0 +1,97 @@
+{
+  "success": true,
+  "response": {
+    "EKs": [
+      {
+        "EK_id": 21546,
+        "EP_id": null,
+        "EK_type": "TVShow",
+        "EK_title": "Вне игры",
+        "kinopoisk_r": 7.6,
+        "year": 2019,
+        "is_trailer": false,
+        "genre": "драма",
+        "genres": [
+          "спорт",
+          "драма",
+          "комедия"
+        ],
+        "countries": [
+          "Россия"
+        ],
+        "age_rating": 18,
+        "is_drm": 0,
+        "is_4K": 0,
+        "is_embedded": 0,
+        "moderated_vendor_id": 8,
+        "poster_url": "http://img.bolshoe.tv/uploads/index/posters/21546/21546?cae109d75ca42296fe7ebbed071ae2ee?1645147667",
+        "wide_poster_url": "http://img.bolshoe.tv/uploads/index/wide_posters/21546/21546?1645147667",
+        "wide_preview_url": "http://img.bolshoe.tv/uploads/index/wide_posters_preview/21546/21546?b35df4c8e10fb7d7ea972a1a5fcf2cfa?1645147667",
+        "wide_back_url": "http://img.bolshoe.tv/uploads/index/wide_posters_back/21546/21546?1645147667",
+        "thumb_poster_url": "http://img.bolshoe.tv/uploads/index/posters/21546/21546_thumb_168_235?cae109d75ca42296fe7ebbed071ae2ee?1645147667",
+        "thumb_wide_poster_url": "http://img.bolshoe.tv/uploads/index/wide_posters/21546/21546_thumb_360_141?1645147667",
+        "thumb_wide_preview_url": "http://img.bolshoe.tv/uploads/index/wide_posters_preview/21546/21546_thumb_576_324?b35df4c8e10fb7d7ea972a1a5fcf2cfa?1645147667",
+        "thumb_wide_back_url": "http://img.bolshoe.tv/uploads/index/wide_posters_back/21546/21546_thumb_1320_743?1645147667",
+        "thumb_banner_url": "http://img.bolshoe.tv/uploads/index/content_banners/21546/21546?694e58b1c903728f367692c0fda4bf7a?1645147667",
+        "sticker_image_url": "http://img.bolshoe.tv/uploads/promotion/sticker/21546/21546",
+        "ogo_content_id": null,
+        "goods": {
+          "is_free": false,
+          "is_bought": false,
+          "is_promo": true,
+          "is_trial": false,
+          "is_active_parent": false,
+          "vendor_id": 8,
+          "tariff_id": 420,
+          "deleted_at": null,
+          "status": "not_purchased",
+          "store_name": null,
+          "package_icon": "http://img.bolshoe.tv/uploads/billing/subscription/mini/5199/5199",
+          "packages": [],
+          "good_type": "SUBSCRIPTION",
+          "cost": 10,
+          "currency": "USD",
+          "package_id": 5199,
+          "parent_id": null,
+          "package_name": "START",
+          "subscription_description": "эксклюзивыd фильмов и сериалов",
+          "not_available_text": "Фильм скоро появится. Рекомендуем посмотреть похожие фильмы.",
+          "rent_period_hour_text": "Доступен для просмотра",
+          "ended_at": null,
+          "buy_at": null,
+          "cancelled_at": null,
+          "partner_label": "START",
+          "buy_confirm_message": null,
+          "is_preview": false,
+          "apple_product_id": "info.goodline.bolshoe.tvstart1",
+          "apple_product_cost": 399,
+          "apple_product_description": "",
+          "play_product_id": "info.goodline.bolshoe.startseries",
+          "play_product_cost": 399,
+          "buy_button_text": "Доступен для просмотра",
+          "buy_button_state": "ACTIVE",
+          "tariffs": [
+            {
+              "store_name": "yandex_kassa",
+              "store_product_id": "yandex.subscription.price299",
+              "package_id": 5199,
+              "type": "SUBSCRIPTION",
+              "pay_text": "Попробовать бесплатно",
+              "is_default": 0,
+              "price": 10,
+              "currency": "USD",
+              "duration": "7",
+              "is_trial": true
+            }
+          ]
+        },
+        "cursor": 1,
+        "rating_value": 0,
+        "watch_time": "2021-05-31T17:05:01+00:00",
+        "position": 33,
+        "duration": 7245
+      }
+    ],
+    "is_last_page": true
+  }
+}
