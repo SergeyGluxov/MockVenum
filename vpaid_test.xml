@@ -1,0 +1,29 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<VAST version="3.0">
+<Ad>
+<InLine>
+<AdSystem>GDFP</AdSystem>
+<AdTitle>Demo</AdTitle>
+<Description>
+<![CDATA[ Demo ]]>
+</Description>
+<Creatives>
+<Creative>
+<Linear skipoffset="5">
+<Duration>00:00:11</Duration>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://adplayer.pro/ ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://static.adplayer.pro/video/demo_v2.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
